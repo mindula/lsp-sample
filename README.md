@@ -32,8 +32,8 @@ It also includes an End-to-End test.
 - Switch to the Debug viewlet.
 - Select `Launch Client` from the drop down.
 - Run the launch config.
--In the extention, open a folder ".vscode" and add a "settings.json" file. 
--In the "settings.json" file, set this setting
+- In the extention, open a folder ".vscode" and add a "settings.json" file. 
+- In the "settings.json" file, set this setting
 -       {
             "languageServerExample.trace.server": "verbose"
         }
