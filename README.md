@@ -34,7 +34,7 @@ It also includes an End-to-End test.
 - Run the launch config.
 -In the extention, open a folder ".vscode" and add a "settings.json" file. 
 -In the "settings.json" file, set this setting
-        {
+-       {
             "languageServerExample.trace.server": "verbose"
         }
 
