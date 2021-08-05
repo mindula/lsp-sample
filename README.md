@@ -39,4 +39,3 @@ It also includes an End-to-End test.
         }
 - Head to the channel "language Server Example"
 
-- Go to https://github.com/mindula/languageServer and install. 
