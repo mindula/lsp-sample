@@ -37,5 +37,6 @@ It also includes an End-to-End test.
 -       {
             "languageServerExample.trace.server": "verbose"
         }
+- Head to the channel "language Server Example"
 
--Go to https://github.com/mindula/languageServer and install. 
+- Go to https://github.com/mindula/languageServer and install. 
